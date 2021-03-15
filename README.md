@@ -1,4 +1,4 @@
-### Languages
+### LANGUAGES
 
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=JavaScript&logoColor=ddc508)
@@ -13,7 +13,7 @@
 ![Android](https://img.shields.io/badge/-Android-333?style=for-the-badge&logo=android)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=for-the-badge&logo=kotlin)
 
-### Technologies
+### TECHNOLOGIES
 
 ![AWS](https://img.shields.io/badge/-AWS-333?style=for-the-badge&logo=Amazon-AWS&logoColor=FF9900)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-333?style=for-the-badge&logo=google-cloud)
@@ -44,7 +44,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-333?style=for-the-badge&logo=postman)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333?style=for-the-badge&logo=insomnia)
 
-### Current Project
+### CURRENT PROJECT
 
 [![Tradely](https://img.shields.io/badge/Tradely-333?style=for-the-badge&logo=salesforce)](https://github.com/Tradely)
 ![|](https://img.shields.io/badge/-Stack:-333?style=for-the-badge)
