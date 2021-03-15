@@ -1,3 +1,21 @@
+### ME
+
+![Name](https://img.shields.io/badge/-👨%20Taylan%20Selvi-333?style=for-the-badge)
+![Location](https://img.shields.io/badge/-📍%20Melbourne,%20Australia-333?style=for-the-badge)
+![Job](https://img.shields.io/badge/-💼%20Applied%20Artificial%20Intelligence%20Institute-333?style=for-the-badge)
+
+### CURRENT PROJECT
+
+[![Tradely](https://img.shields.io/badge/Tradely-333?style=for-the-badge&logo=salesforce)](https://github.com/Tradely)
+![|](https://img.shields.io/badge/-Stack:-333?style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=JavaScript&logoColor=ddc508)
+![Spring](https://img.shields.io/badge/-Spring-333?style=for-the-badge&logo=Spring)
+![VueJS](https://img.shields.io/badge/-VueJS-333?style=for-the-badge&logo=vue.js)
+![Vuetify](https://img.shields.io/badge/-Vuetify-333?style=for-the-badge&logo=vuetify)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333?style=for-the-badge&logo=graphql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=for-the-badge&logo=mongodb)
+
 ### LANGUAGES
 
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
@@ -43,15 +61,3 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-333?style=for-the-badge&logo=wordpress)
 ![Postman](https://img.shields.io/badge/-Postman-333?style=for-the-badge&logo=postman)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333?style=for-the-badge&logo=insomnia)
-
-### CURRENT PROJECT
-
-[![Tradely](https://img.shields.io/badge/Tradely-333?style=for-the-badge&logo=salesforce)](https://github.com/Tradely)
-![|](https://img.shields.io/badge/-Stack:-333?style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=JavaScript&logoColor=ddc508)
-![Spring](https://img.shields.io/badge/-Spring-333?style=for-the-badge&logo=Spring)
-![VueJS](https://img.shields.io/badge/-VueJS-333?style=for-the-badge&logo=vue.js)
-![Vuetify](https://img.shields.io/badge/-Vuetify-333?style=for-the-badge&logo=vuetify)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333?style=for-the-badge&logo=graphql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=for-the-badge&logo=mongodb)
