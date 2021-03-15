@@ -37,4 +37,4 @@
 
 ### Current Project
 
-[![Tradely](https://img.shields.io/badge/-🧬%20Tradely-333?style=for-the-badge)](https://github.com/Tradely)
+[![Tradely](https://img.shields.io/badge/Tradely-333?style=for-the-badge&logo=salesforce)](https://github.com/Tradely)
