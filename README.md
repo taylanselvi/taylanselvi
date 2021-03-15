@@ -9,6 +9,9 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=TypeScript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 ![Swift](https://img.shields.io/badge/-Swift-333?style=for-the-badge&logo=Swift)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333?style=for-the-badge&logo=graphql)
+![Android](https://img.shields.io/badge/-Android-333?style=for-the-badge&logo=android)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=for-the-badge&logo=kotlin)
 
 ### Technologies
 
@@ -29,10 +32,15 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-333?style=for-the-badge&logo=Cisco)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=for-the-badge&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-333?style=for-the-badge&logo=Redis)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-333?style=for-the-badge&logo=apache-kafka)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-333?style=for-the-badge&logo=elasticsearch)
+![Kibana](https://img.shields.io/badge/-Kibana-333?style=for-the-badge&logo=kibana)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333?style=for-the-badge&logo=graphql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql)
+![WordPress](https://img.shields.io/badge/-WordPress-333?style=for-the-badge&logo=wordpress)
+![Postman](https://img.shields.io/badge/-Postman-333?style=for-the-badge&logo=postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333?style=for-the-badge&logo=insomnia)
 
 ### Current Project
 
