@@ -7,7 +7,8 @@
 ### CURRENT PROJECT
 
 [![Tradely](https://img.shields.io/badge/Tradely-333?style=for-the-badge&logo=salesforce)](https://github.com/Tradely)
-![|](https://img.shields.io/badge/-Stack:-333?style=for-the-badge)
+
+![Stack](https://img.shields.io/badge/-Stack:-333?style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=JavaScript&logoColor=ddc508)
 ![Spring](https://img.shields.io/badge/-Spring-333?style=for-the-badge&logo=Spring)
