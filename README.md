@@ -6,16 +6,16 @@
 
 ### CURRENT PROJECT
 
-[![Tradely](https://img.shields.io/badge/Tradely-333?style=flat-square&logo=salesforce)](https://github.com/Tradely)
+[![Tradely](https://img.shields.io/badge/Tradely-333?style=for-the-badge&logo=salesforce)](https://github.com/Tradely)
 
-![Stack](https://img.shields.io/badge/-Stack:-333?style=flat-square)
-![Java](https://img.shields.io/badge/-Java-333?style=flat-square&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=JavaScript&logoColor=ddc508)
-![Spring](https://img.shields.io/badge/-Spring-333?style=flat-square&logo=Spring)
-![VueJS](https://img.shields.io/badge/-VueJS-333?style=flat-square&logo=vue.js)
-![Vuetify](https://img.shields.io/badge/-Vuetify-333?style=flat-square&logo=vuetify)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333?style=flat-square&logo=graphql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat-square&logo=mongodb)
+![Stack](https://img.shields.io/badge/-Stack:-333?style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=JavaScript&logoColor=ddc508)
+![Spring](https://img.shields.io/badge/-Spring-333?style=for-the-badge&logo=Spring)
+![VueJS](https://img.shields.io/badge/-VueJS-333?style=for-the-badge&logo=vue.js)
+![Vuetify](https://img.shields.io/badge/-Vuetify-333?style=for-the-badge&logo=vuetify)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333?style=for-the-badge&logo=graphql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=for-the-badge&logo=mongodb)
 
 ### LANGUAGES
 
