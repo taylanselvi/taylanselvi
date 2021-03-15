@@ -1,14 +1,12 @@
 ### Languages
 
-[![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=JavaScript&logoColor=ddc508)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3)
-![CSS3](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=sass)
-[![C](https://img.shields.io/badge/-C-333?style=for-the-badge&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
-[![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
+![SASS](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=sass)
+![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=TypeScript&logoColor=007ACC)
-![C++](https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 ![Swift](https://img.shields.io/badge/-Swift-333?style=for-the-badge&logo=Swift)
 
