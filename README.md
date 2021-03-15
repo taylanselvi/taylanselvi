@@ -1,6 +1,3 @@
-
-
-
 ### ME
 
 ![Name](https://img.shields.io/badge/-👨%20Taylan%20Selvi-333?style=for-the-badge)
